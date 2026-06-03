@@ -1,10 +1,10 @@
 # Olá 👋, eu sou Kenneth
 
-🔧 **Desenvolvedor de Sistemas Embarcados & Software Desktop**  
+⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
 🇧🇷 Brasil · Osasco, SP
 
-Trabalho com **firmware embarcado** e **ferramentas desktop** para automação e eletrônica.  
-Apaixonado por **microcontroladores, cultura maker e soluções práticas** que resolvem problemas reais.
+Projeto e fabrico **placas de circuito impresso** e desenvolvo o **firmware** que roda nelas.  
+Apaixonado por transformar ideias em hardware real — do esquemático ao produto final.
 
 ---
 
@@ -32,14 +32,20 @@ Apaixonado por **microcontroladores, cultura maker e soluções práticas** que 
 
 ## 🧠 O que eu faço
 
-- 🔌 Firmware embarcado com ESP32, Arduino, STM32 e Raspberry Pi
-- 🖥️ Aplicativos desktop em Python com customtkinter
-- 🎮 Projetos maker: OLED, BLE, captive portal, animações
-- ⚙️ Automação com scripts Windows (.bat, .ps1)
+- 🖨️ Projeto de PCB — do esquemático ao layout final
+- 🔌 Desenvolvimento de firmware para as placas que fabrico
+- ⚙️ Integração completa entre hardware e software embarcado
+- 🛠️ Prototipagem e testes com Arduino, ESP32, STM32 e Raspberry Pi
 
 ---
 
 ## 🛠️ Stack de Tecnologias
+
+### Projeto de PCB
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### Plataformas Embarcadas
 
@@ -54,7 +60,7 @@ Apaixonado por **microcontroladores, cultura maker e soluções práticas** que 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Ferramentas
+### Ferramentas de Desenvolvimento
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
@@ -63,7 +69,6 @@ Apaixonado por **microcontroladores, cultura maker e soluções práticas** que 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -92,11 +97,11 @@ Apaixonado por **microcontroladores, cultura maker e soluções práticas** que 
 
 ## 🚀 Filosofia
 
-> _"Hardware sem software é ferro.  
-> Software sem hardware é abstração.  
-> A mágica acontece quando os dois conversam."_
+> _"Não basta projetar o hardware.  
+> Precisa dar vida a ele.  
+> Do esquemático ao firmware — esse é o caminho."_
 
 ---
 
 ⭐ Se curtiu algum projeto, deixa uma estrela  
-🤝 Aberto a colaborações em projetos embarcados, automação e eletrônica
+🤝 Aberto a colaborações em projetos de hardware, PCB e firmware
