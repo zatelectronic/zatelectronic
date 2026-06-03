@@ -1,71 +1,77 @@
-# Hi 👋, I'm Kenneth Zat
+# Olá 👋, eu sou Kenneth
 
-🔧 **Embedded Systems & Desktop Software Developer**
-🇧🇷 Brazil · Osasco, SP
+🔧 **Desenvolvedor de Sistemas Embarcados & Software Desktop**  
+🇧🇷 Brasil · Osasco, SP
 
-Trabalho com **firmware embarcado** e **ferramentas desktop** para automação e eletrônica.
-Apaixonado por **microcontroladores, maker culture e soluções práticas** que resolvem problemas reais.
+Trabalho com **firmware embarcado** e **ferramentas desktop** para automação e eletrônica.  
+Apaixonado por **microcontroladores, cultura maker e soluções práticas** que resolvem problemas reais.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/zatelectronic">
     <img src="https://img.shields.io/badge/GitHub-ZATELECTRONIC-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/kennethzat/">
+    <img src="https://img.shields.io/badge/LinkedIn-KENNETH%20ZAT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/zatelectronic/">
+    <img src="https://img.shields.io/badge/Instagram-@ZATELECTRONIC-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@kennethzat">
+    <img src="https://img.shields.io/badge/YouTube-KENNETH%20ZAT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511968882001">
+    <img src="https://img.shields.io/badge/WhatsApp-CONTATO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
-- 🔌 Firmware embarcado com ESP32, Arduino e PIC16F
-- 🖥️ Apps desktop Python com customtkinter
+- 🔌 Firmware embarcado com ESP32, Arduino, STM32 e Raspberry Pi
+- 🖥️ Aplicativos desktop em Python com customtkinter
 - 🎮 Projetos maker: OLED, BLE, captive portal, animações
 - ⚙️ Automação com scripts Windows (.bat, .ps1)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack de Tecnologias
 
-### Embedded & Hardware
+### Plataformas Embarcadas
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-![Arduino](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino Pro Mini](https://img.shields.io/badge/Arduino_Pro_Mini-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP32-C3](https://img.shields.io/badge/ESP32--C3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PIC16F](https://img.shields.io/badge/PIC16F628A-MPLAB-CC0000?style=for-the-badge)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-RP2040-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![PIC16F](https://img.shields.io/badge/PIC16F-MPLAB-CC0000?style=for-the-badge)
 
-### Desktop & Scripting
+### Linguagens de Programação
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![customtkinter](https://img.shields.io/badge/customtkinter-GUI-blue?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Tools & DevOps
+### Ferramentas
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MPLAB IDE](https://img.shields.io/badge/MPLAB_IDE-CC0000?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ## 📦 Projetos em Destaque
 
-| Projeto                        | Descrição                                                                      | Stack                 |
-| ------------------------------ | -------------------------------------------------------------------------------- | --------------------- |
-| **Chaveiro Geek v4**     | Keychain OLED com 17 efeitos de texto, GIFs via LittleFS e protocolo JSON serial | ESP32-C3, PlatformIO  |
-| **PS5 DualSense OLED**   | Controle PS5 via BLE exibindo dados em display OLED                              | ESP32-S3, Bluepad32   |
-| **Captive Portal ESP32** | Portal de configuração WiFi com frontend HTML/CSS                              | ESP32, Arduino        |
-| **CRIADOR DE PROMPT**    | GUI para gestão de módulos/componentes eletrônicos                            | Python, customtkinter |
-| **PIC16F628A + VSCode**  | Integração MPLAB X com botões de tarefa para compile/program com 1 clique     | PIC16F, XC8           |
-| **OLED Animations UNO**  | Animações 3D, Matrix rain, Pong e starfield no SSD1306                         | Arduino UNO           |
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Em breve** | — | — |
 
 ---
 
@@ -82,11 +88,11 @@ Apaixonado por **microcontroladores, maker culture e soluções práticas** que 
 
 ## 🚀 Filosofia
 
-> _"Hardware sem software é ferro.
-> Software sem hardware é abstração.
+> _"Hardware sem software é ferro.  
+> Software sem hardware é abstração.  
 > A mágica acontece quando os dois conversam."_
 
 ---
 
-⭐ Se curtiu algum projeto, deixa uma estrela
+⭐ Se curtiu algum projeto, deixa uma estrela  
 🤝 Aberto a colaborações em projetos embarcados, automação e eletrônica
