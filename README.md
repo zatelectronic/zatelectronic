@@ -11,8 +11,8 @@ Apaixonado por **microcontroladores, maker culture e soluções práticas** que 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/zatelectronic">
+    <img src="https://img.shields.io/badge/GitHub-ZATELECTRONIC-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@ Apaixonado por **microcontroladores, maker culture e soluções práticas** que 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zatelectronic&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=tokyonight" />
 </p>
 
 ---
