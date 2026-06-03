@@ -1,9 +1,9 @@
-# Hi 👋, I'm Kenneth
+# Hi 👋, I'm Kenneth Zat
 
-🔧 **Embedded Systems & Desktop Software Developer**  
+🔧 **Embedded Systems & Desktop Software Developer**
 🇧🇷 Brazil · Osasco, SP
 
-Trabalho com **firmware embarcado** e **ferramentas desktop** para automação e eletrônica.  
+Trabalho com **firmware embarcado** e **ferramentas desktop** para automação e eletrônica.
 Apaixonado por **microcontroladores, maker culture e soluções práticas** que resolvem problemas reais.
 
 ---
@@ -58,14 +58,14 @@ Apaixonado por **microcontroladores, maker culture e soluções práticas** que 
 
 ## 📦 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Chaveiro Geek v4** | Keychain OLED com 17 efeitos de texto, GIFs via LittleFS e protocolo JSON serial | ESP32-C3, PlatformIO |
-| **PS5 DualSense OLED** | Controle PS5 via BLE exibindo dados em display OLED | ESP32-S3, Bluepad32 |
-| **Captive Portal ESP32** | Portal de configuração WiFi com frontend HTML/CSS | ESP32, Arduino |
-| **CRIADOR DE PROMPT** | GUI para gestão de módulos/componentes eletrônicos | Python, customtkinter |
-| **PIC16F628A + VSCode** | Integração MPLAB X com botões de tarefa para compile/program com 1 clique | PIC16F, XC8 |
-| **OLED Animations UNO** | Animações 3D, Matrix rain, Pong e starfield no SSD1306 | Arduino UNO |
+| Projeto                        | Descrição                                                                      | Stack                 |
+| ------------------------------ | -------------------------------------------------------------------------------- | --------------------- |
+| **Chaveiro Geek v4**     | Keychain OLED com 17 efeitos de texto, GIFs via LittleFS e protocolo JSON serial | ESP32-C3, PlatformIO  |
+| **PS5 DualSense OLED**   | Controle PS5 via BLE exibindo dados em display OLED                              | ESP32-S3, Bluepad32   |
+| **Captive Portal ESP32** | Portal de configuração WiFi com frontend HTML/CSS                              | ESP32, Arduino        |
+| **CRIADOR DE PROMPT**    | GUI para gestão de módulos/componentes eletrônicos                            | Python, customtkinter |
+| **PIC16F628A + VSCode**  | Integração MPLAB X com botões de tarefa para compile/program com 1 clique     | PIC16F, XC8           |
+| **OLED Animations UNO**  | Animações 3D, Matrix rain, Pong e starfield no SSD1306                         | Arduino UNO           |
 
 ---
 
@@ -82,11 +82,11 @@ Apaixonado por **microcontroladores, maker culture e soluções práticas** que 
 
 ## 🚀 Filosofia
 
-> _"Hardware sem software é ferro.  
-> Software sem hardware é abstração.  
+> _"Hardware sem software é ferro.
+> Software sem hardware é abstração.
 > A mágica acontece quando os dois conversam."_
 
 ---
 
-⭐ Se curtiu algum projeto, deixa uma estrela  
+⭐ Se curtiu algum projeto, deixa uma estrela
 🤝 Aberto a colaborações em projetos embarcados, automação e eletrônica
