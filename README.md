@@ -69,12 +69,14 @@ Apaixonado por **microcontroladores, maker culture e soluções práticas** que 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zatelectronic&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=30A3DC" />
+  <img src="https://img.shields.io/github/stars/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=F0E130" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zatelectronic&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
