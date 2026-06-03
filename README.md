@@ -71,7 +71,11 @@ Apaixonado por **microcontroladores, cultura maker e soluções práticas** que 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Em breve** | — | — |
+| [**ZATINO V2 SMD**](https://github.com/zatelectronic/ZATINO_SMD_V2) | Arduino StandAlone | — |
+| [**Projeto 2**](https://github.com/zatelectronic/REPO-2) | Descrição do projeto 2 | — |
+| [**Projeto 3**](https://github.com/zatelectronic/REPO-3) | Descrição do projeto 3 | — |
+| [**Projeto 4**](https://github.com/zatelectronic/REPO-4) | Descrição do projeto 4 | — |
+| [**Projeto 5**](https://github.com/zatelectronic/REPO-5) | Descrição do projeto 5 | — |
 
 ---
 
