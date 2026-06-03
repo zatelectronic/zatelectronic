@@ -32,43 +32,41 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ## 🧠 O que eu faço
 
-- 🖨️ Projeto de PCB — do esquemático ao layout final
+- ⚡ Projeto de PCB — do esquemático ao layout final
 - 🔌 Desenvolvimento de firmware para as placas que fabrico
 - ⚙️ Integração completa entre hardware e software embarcado
 - 🛠️ Prototipagem e testes com Arduino, ESP32, STM32 e Raspberry Pi
 
 ---
 
-## 🛠️ Stack de Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-### Projeto de PCB
+### ⚡ Design de Hardware
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### Plataformas Embarcadas
+### 💻 Desenvolvimento de Firmware
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PIC16F](https://img.shields.io/badge/PIC16F-MPLAB-CC0000?style=for-the-badge)
-
-### Linguagens de Programação
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Ferramentas de Desenvolvimento
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MPLAB IDE](https://img.shields.io/badge/MPLAB_IDE-CC0000?style=for-the-badge)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+### 🛠️ Ferramentas Gerais
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -87,11 +85,19 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 ## 📊 Atividade
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=30A3DC" />
-  <img src="https://img.shields.io/github/stars/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=F0E130" />
+  <img src="https://img.shields.io/github/followers/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=30A3DC&label=Seguidores" />
+  <img src="https://img.shields.io/github/stars/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=F0E130&label=Estrelas" />
+  <img src="https://komarev.com/ghpvc/?username=zatelectronic&style=for-the-badge&color=blueviolet&label=Visualizações" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zatelectronic&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zatelectronic&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
+<details>
+  <summary>📈 Ver mais estatísticas</summary>
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zatelectronic&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=tokyonight&locale=pt-br" />
+</details>
 
 ---
 
