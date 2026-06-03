@@ -95,8 +95,8 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 <details>
   <summary>📈 Ver mais estatísticas</summary>
   <br/>
-  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api?username=zatelectronic&show_icons=true&theme=dark-smoky&count_private=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=dark-smoky&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api?username=zatelectronic&show_icons=true&theme=dark&count_private=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=dark&locale=pt-br" />
 </details>
 
 ---
