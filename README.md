@@ -111,6 +111,7 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 <p align="center">
   <img src="1.jpeg" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
   <img src="2.png" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
+  
   <img src="3.jpeg" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
   <img src="4.jpeg" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
 </p>
