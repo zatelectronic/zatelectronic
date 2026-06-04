@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ZAT%20ELECTRONIC&fontSize=60&color=0:0D1B4B,100:00BFFF&fontColor=00BFFF&stroke=0D1B4B&strokeWidth=2" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Engenheiro+Eletr%C3%B4nico+%26+Desenvolvedor+de+Firmware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Engenheiro+Eletr%C3%B4nico+%26+Desenvolvedor+de+Firmware" alt="Typing SVG" />
 </p>
 
 <p align="center">
