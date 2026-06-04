@@ -7,7 +7,7 @@
 ⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
 🇧🇷 Brasil · Osasco, SP
 
-Projeto e fabrico **placas de circuito impresso** e desenvolvo o **firmware** que roda nelas.  
+Projeto **placas de circuito impresso** e desenvolvo o **firmware** que roda nelas.  
 Apaixonado por transformar ideias em hardware real — do esquemático ao produto final.
 
 ---
@@ -37,7 +37,7 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 ## 🧠 O que eu faço
 
 - ⚡ Projeto de PCB — do esquemático ao layout final
-- 🔌 Desenvolvimento de firmware para as placas que fabrico
+- 🔌 Desenvolvimento de firmware para as placas que projeto
 - ⚙️ Integração completa entre hardware e software embarcado
 - 🛠️ Prototipagem e testes com Arduino, ESP32, STM32 e Raspberry Pi
 
