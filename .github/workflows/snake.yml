@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: zatelectronic
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?type=pacman
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&type=pacman
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
