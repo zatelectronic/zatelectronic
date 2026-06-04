@@ -91,7 +91,7 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 </p>
 
 <p align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=zatelectronic&theme=vision-friendly-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700&border_radius=10" />
+  <img width="700" src="https://streak-stats.demolab.com?user=zatelectronic&theme=vision-friendly-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700&border_radius=10&cache_seconds=0" />
 </p>
 
 <p align="center">
