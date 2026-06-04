@@ -6,13 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&multiline=true&height=60&lines=Engenheiro+Eletr%C3%B4nico+%26;Desenvolvedor+de+Firmware" alt="Typing SVG" />
 </p>
 
-# Olá 👋, eu sou Kenneth Zat
+<h1 align="center">Olá 👋, eu sou Kenneth Zat</h1>
 
-⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
-🇧🇷 Brasil · Osasco, SP
+<p align="center">
+  ⚡ <b>Engenheiro Eletrônico & Desenvolvedor de Firmware</b>
+</p>
 
-Projeto **placas de circuito impresso** e desenvolvo o **firmware** que roda nelas.  
-Apaixonado por transformar ideias em hardware real — do esquemático ao produto final.
+<p align="center">
+  <img src="https://flagcdn.com/24x18/br.png" alt="Brasil" /> Brasil · Osasco, SP
+</p>
+
+<p align="center">
+  Projeto <b>placas de circuito impresso</b> e desenvolvo o <b>firmware</b> que roda nelas.<br/>
+  Apaixonado por transformar ideias em hardware real — do esquemático ao produto final.
+</p>
 
 ---
 
@@ -51,9 +58,13 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ## 🎓 Formação
 
-| Universidade | Curso | Período |
-|---|---|---|
-| 🎓 Universidade Paulista - UNIP | Engenheiro Eletrônico | 2017 — 2021 |
+<p align="center">
+
+| 🏛️ Universidade | 📘 Curso | 📅 Período |
+|:---:|:---:|:---:|
+| <img src="https://flagcdn.com/20x15/br.png" /> Universidade Paulista — UNIP | Engenharia Eletrônica | 2017 — 2021 |
+
+</p>
 
 ---
 
