@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Kenneth
+# Olá 👋, eu sou Kenneth Zat
 
 ⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
 🇧🇷 Brasil · Osasco, SP
