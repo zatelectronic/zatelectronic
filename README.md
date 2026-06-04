@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo_fundo_transparente_01.png" width="300" />
+</p>
+
 # Olá 👋, eu sou Kenneth
 
 ⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
