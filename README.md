@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&multiline=true&height=60&lines=Engenheiro+Eletr%C3%B4nico+%26;Desenvolvedor+de+Firmware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&multiline=true&height=60&lines=Engenheiro+Eletr%C3%B4nico+%26;Desenvolvedor+de+Firmware" alt="Typing SVG" />
 </p>
 
 # Olá 👋, eu sou Kenneth Zat
