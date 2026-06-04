@@ -14,7 +14,7 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/zatelectronic">
     <img src="https://img.shields.io/badge/GitHub-ZATELECTRONIC-181717?style=for-the-badge&logo=github" />
   </a>
@@ -24,6 +24,8 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
   <a href="https://www.instagram.com/zatelectronic/">
     <img src="https://img.shields.io/badge/Instagram-@ZATELECTRONIC-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.youtube.com/@kennethzat">
     <img src="https://img.shields.io/badge/YouTube-KENNETH%20ZAT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
