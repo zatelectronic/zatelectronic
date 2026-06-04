@@ -90,11 +90,11 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
   <img src="https://komarev.com/ghpvc/?username=zatelectronic&style=for-the-badge&color=blueviolet&label=Visualizações" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zatelectronic&theme=dark-smoky&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zatelectronic&theme=vision-friendly-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700&border_radius=10)](https://git.io/streak-stats)
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api?username=zatelectronic&show_icons=true&theme=dark&count_private=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=dark&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api?username=zatelectronic&show_icons=true&theme=vision-friendly-dark&count_private=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=vision-friendly-dark&locale=pt-br" />
 </p>
 
 ---
