@@ -121,9 +121,9 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=30A3DC&label=Seguidores" />
-  <img src="https://img.shields.io/github/stars/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=F0E130&label=Estrelas&cacheBust=1" />
+  <img src="https://img.shields.io/github/stars/zatelectronic?style=for-the-badge&logo=github&labelColor=181717&color=F0E130&label=Estrelas" />
   <img src="https://komarev.com/ghpvc/?username=zatelectronic&style=for-the-badge&color=blueviolet&label=Visualizações" />
-  <img src="https://img.shields.io/github/repo-size/zatelectronic/zatelectronic?style=for-the-badge&labelColor=181717&color=00BFFF&label=Repositórios" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zatelectronic&query=public_repos&style=for-the-badge&labelColor=181717&color=00BFFF&label=Repositórios&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
