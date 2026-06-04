@@ -137,6 +137,14 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zatelectronic/zatelectronic/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zatelectronic/zatelectronic/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/zatelectronic/zatelectronic/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=zatelectronic&theme=vision-friendly-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700&border_radius=10&cache_seconds=86400" />
 </p>
 
