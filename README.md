@@ -2,7 +2,7 @@
   <img src="logo.png" width="300" />
 </p>
 
-# Olá 👋, eu sou Kenneth
+# Olá 👋, eu sou Kenneth Zat
 
 ⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
 🇧🇷 Brasil · Osasco, SP
