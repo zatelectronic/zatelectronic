@@ -51,8 +51,9 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ## 🎓 Formação
 
- Universidade Paulista - UNIP
- Engenheiro Eletrônico 2017 a 2021 
+| Universidade | Curso | Período |
+|---|---|---|
+| 🎓 Universidade Paulista - UNIP | Engenheiro Eletrônico | 2017 — 2021 |
 
 ---
 
@@ -110,7 +111,6 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 <p align="center">
   <img src="1.jpeg" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
   <img src="2.png" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
-
   <img src="3.jpeg" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
   <img src="4.jpeg" width="220" style="border: 2px solid #00BFFF; border-radius: 8px; margin: 6px;" />
 </p>
@@ -130,8 +130,8 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api?username=zatelectronic&show_icons=true&theme=vision-friendly-dark&count_private=true&locale=pt-br&cache_seconds=86400&v=2&hide_rank=true" />
-  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=vision-friendly-dark&locale=pt-br&langs_count=6&exclude_repo=github-readme-stats&cache_seconds=86400&v=2" />
+  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api?username=zatelectronic&show_icons=true&theme=vision-friendly-dark&count_private=true&locale=pt-br&cache_seconds=0&hide_rank=true" />
+  <img height="180" src="https://github-readme-stats-nine-ivory-55.vercel.app/api/top-langs/?username=zatelectronic&layout=compact&theme=vision-friendly-dark&locale=pt-br&langs_count=6&exclude_repo=github-readme-stats&cache_seconds=0" />
 </p>
 
 ---
