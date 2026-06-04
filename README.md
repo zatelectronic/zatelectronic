@@ -1,9 +1,9 @@
 # Olá 👋, eu sou Kenneth Zat
 
-⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**  
+⚡ **Engenheiro Eletrônico & Desenvolvedor de Firmware**
 🇧🇷 Brasil · Osasco, SP
 
-Projeto e fabrico **placas de circuito impresso** e desenvolvo o **firmware** que roda nelas.  
+Projeto e fabrico **placas de circuito impresso** e desenvolvo o **firmware** que roda nelas.
 Apaixonado por transformar ideias em hardware real — do esquemático ao produto final.
 
 ---
@@ -72,13 +72,13 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ## 📦 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**ZATINO V2 SMD**](https://github.com/zatelectronic/ZATINO_SMD_V2) | Arduino StandAlone SMD | Arduino, C++ |
-| [**Projeto 2**](https://github.com/zatelectronic/REPO-2) | Descrição do projeto 2 | — |
-| [**Projeto 3**](https://github.com/zatelectronic/REPO-3) | Descrição do projeto 3 | — |
-| [**Projeto 4**](https://github.com/zatelectronic/REPO-4) | Descrição do projeto 4 | — |
-| [**Projeto 5**](https://github.com/zatelectronic/REPO-5) | Descrição do projeto 5 | — |
+| Projeto                                                                | Descrição              | Stack        |
+| ---------------------------------------------------------------------- | ------------------------ | ------------ |
+| [**ZATINO V2 SMD**](https://github.com/zatelectronic/ZATINO_SMD_V2) | Arduino StandAlone SMD   | Arduino, C++ |
+| [**Projeto 2**](https://github.com/zatelectronic/REPO-2)            | Descrição do projeto 2 | —           |
+| [**Projeto 3**](https://github.com/zatelectronic/REPO-3)            | Descrição do projeto 3 | —           |
+| [**Projeto 4**](https://github.com/zatelectronic/REPO-4)            | Descrição do projeto 4 | —           |
+| [**Projeto 5**](https://github.com/zatelectronic/REPO-5)            | Descrição do projeto 5 | —           |
 
 ---
 
@@ -103,11 +103,11 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ## 🚀 Filosofia
 
-> _"Não basta projetar o hardware.  
-> Precisa dar vida a ele.  
+> _"Não basta projetar o hardware.
+> Precisa dar vida a ele.
 > Do esquemático ao firmware — esse é o caminho."_
 
 ---
 
-⭐ Se curtiu algum projeto, deixa uma estrela  
+⭐ Se curtiu algum projeto, deixa uma estrela
 🤝 Aberto a colaborações em projetos de hardware, PCB e firmware
