@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo_fundo_transparente_01.png" width="300" />
+  <img src="logo.png" width="300" />
 </p>
 
 # Olá 👋, eu sou Kenneth
