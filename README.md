@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Engenheiro+Eletr%C3%B4nico+%26+Desenvolvedor+de+Firmware" alt="Typing SVG" />
+  <img src="logo.png" width="300" />
 </p>
 
 <p align="center">
-  <img src="logo.png" width="300" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&multiline=true&height=60&lines=Engenheiro+Eletr%C3%B4nico+%26;Desenvolvedor+de+Firmware" alt="Typing SVG" />
 </p>
 
 # Olá 👋, eu sou Kenneth Zat
@@ -61,108 +61,36 @@ Apaixonado por transformar ideias em hardware real — do esquemático ao produt
 
 ### ⚡ Design de Hardware
 
-
-
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-
-
-
-
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-
-
-
-
 ![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-
-
 
 ### 🖥️ IDEs & Ambientes de Desenvolvimento
 
-
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
-
-
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-
-
-
-
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-
-
-
 ![MPLAB IDE](https://img.shields.io/badge/MPLAB_IDE-CC0000?style=for-the-badge)
-
-
-
-
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-
 
 ### 💻 Plataformas & Hardware
 
-
-
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-
-
-
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-
-
-
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-
-
-
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-
-
-
 ![Microchip PIC](https://img.shields.io/badge/Microchip_PIC-CC0000?style=for-the-badge)
-
-
 
 ### 📝 Linguagens de Programação
 
-
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
 
 ### 🛠️ Ferramentas Gerais & Sistemas Operacionais
 
-
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
 
 ---
 
